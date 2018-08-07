@@ -1,2 +1,2 @@
 # Images
-COntains images for markdown docs
+Contains images for markdown docsa and presentations
