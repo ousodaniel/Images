@@ -1,2 +1,2 @@
 # Images
-Contains images for markdown docsa and presentations
+Contains images originally made by me
