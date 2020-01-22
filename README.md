@@ -1,2 +1,2 @@
 # Images
-Contains images originally made by me
+Contains my image creations
